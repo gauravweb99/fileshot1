@@ -28,5 +28,7 @@ python main.py
 ### Admin info and pay
 
 tm- Sathish Sk
+
 last pay- none
+
 fees- free
