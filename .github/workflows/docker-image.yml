@@ -10,7 +10,7 @@ jobs:
 
   build:
 
-    runs-on: python:3.8-slim-buster
+    runs-on: python:3
 
     steps:
     - uses: actions/checkout@v3
